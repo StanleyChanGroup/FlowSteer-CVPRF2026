@@ -7,7 +7,7 @@
 > Purdue University &nbsp;·&nbsp; HKUST &nbsp;·&nbsp; Texas A&M University
 
 [![Arxiv](https://img.shields.io/badge/arXiv-2512.08125-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://www.arxiv.org/abs/2512.08125)
-[![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge)](https://tharindu-nirmal.github.io/FlowSteer/)
+[![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge)](https://stanleychangroup.github.io/FlowSteer-CVPRF2026/)
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2026F/papers/Wickremasinghe_FlowSteer_Conditioning_Flow_Field_for_Consistent_Image_Restoration_CVPRF_2026_paper.pdf)
 [![FlowSteer Dataset](https://img.shields.io/badge/FlowSteer100-Dataset-FF4F1D.svg?style=for-the-badge&logo=Huggingface)](https://huggingface.co/datasets/lwickrem/FlowSteer100)
 
